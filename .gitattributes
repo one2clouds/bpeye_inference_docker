@@ -1,0 +1,1 @@
+glaucoma_resnet_airogs_focal/epoch_018.ckpt filter=lfs diff=lfs merge=lfs -text

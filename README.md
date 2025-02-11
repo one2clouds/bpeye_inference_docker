@@ -1,2 +1,5 @@
-Run bash script below in terminal 
+Run bash script below in terminal : 
+
+```
 sh test_run.sh 
+```
